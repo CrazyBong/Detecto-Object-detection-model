@@ -16,7 +16,7 @@ Detecto is an AI-powered object detection system that identifies and locates mul
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CrazyBong/Detecto-Object-detection-model.git
    cd Detecto-Object-detection-model
    ```
 
